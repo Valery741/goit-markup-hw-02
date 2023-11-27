@@ -2,6 +2,10 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFF;
+    width: 1440px;
+    height: 72px;
+    flex-shrink: 0;
+    border-bottom:#E7E9FC;
 }
 
 < !-- Navigation -->
