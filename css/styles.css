@@ -10,7 +10,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -27,7 +27,12 @@ body {
     line-height: 24px;
     letter-spacing: 0.32px;
 }
-
+.menu:hover {
+color: #404bbf;
+}
+.menu:active {
+    color: #404bbf;
+}
 .adress {
     font-style: normal
 }
