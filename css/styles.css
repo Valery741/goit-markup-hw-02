@@ -245,6 +245,17 @@ body {
     line-height: 24px;
     letter-spacing: 0.4px;
 }
+.portfolio-scroll {
+    display: flex;
+    padding-bottom: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex-shrink: 0;
+    border: #E7E9FC;
+    background: #FFF;
+    width: 360px;
+}
 
 .portfolio-list {
     display: flex;
