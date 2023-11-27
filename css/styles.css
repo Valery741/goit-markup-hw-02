@@ -8,7 +8,7 @@ body {
     border-bottom:#E7E9FC;
 }
 
-< !-- Navigation -->
+/* < !-- Navigation --> */
 
 .navigation {
     Top line width: 1440px;
@@ -77,8 +77,12 @@ body {
 }
 
 .contacts:focus {
-    color: #404bbf;
+     color: #404bbf;
 }
+
+
+/* Main content */
+
 .solution {
     background-color: #2E2F42;
     width: 1440px;
@@ -122,7 +126,7 @@ body {
 .button:focus {
     background-color: #404BBF;
 }
-  < !-- Main content list -->
+  /* < !-- Main content list --> */
 
 .advantages {
     width: 1440px;
@@ -163,12 +167,9 @@ body {
     letter-spacing: 0.32px;
 }
 
-< !-- Main content team -->
+/* < !-- Main content team --> */
 
 .team {
-    width: 1440px;
-    height: 732px;
-    flex-shrink: 0;
     background-color: #F4F4FD;
 }
 .team-title {
@@ -180,7 +181,6 @@ body {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    background-color: #F4F4FD;
     width: 1440px;
     height: 732px;
     flex-shrink: 0;
@@ -198,7 +198,6 @@ body {
     justify-content: center;
     align-items: center;
     gap: 32px;
-    background-color: #F4F4FD;
 }
 
 .team-item-name {
@@ -218,12 +217,13 @@ body {
     letter-spacing: 0.02em;
 }
 
- < !-- Our Portfolio -->
+ /* < !-- Our Portfolio --> */
 
 .portfolio {
     width: 1440px;
     height: 3300px;
     background-color: #FFF;
+    border:#E7E9FC;
 }
 
 .portfolio-title {
