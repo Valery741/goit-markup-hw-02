@@ -16,11 +16,11 @@ body {
 }
 
 .logo-span {
-    color: ##2e2f42;
+    color: #2e2f42;
 }
 
 .menu {
-    color: #2E2F42;
+    color: #2e2f42;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -30,7 +30,7 @@ body {
 .menu:hover {
 color: #404bbf;
 }
-.menu:active {
+.menu:focus {
     color: #404bbf;
 }
 .adress {
