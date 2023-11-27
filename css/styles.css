@@ -87,7 +87,7 @@ width: 264px
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.11;
     letter-spacing: 0.4px;
 }
 .item-descr {
@@ -97,6 +97,12 @@ width: 264px
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+.main-content-team {
+    background-color: #F4F4FD;
+    width: 1440px;
+    height: 732px;
+    flex-shrink: 0;
 }
 .title-2 {
     color: #2E2F42;
@@ -110,17 +116,10 @@ width: 264px
 }
 
 .list-item-2 {
-    width: 264px
+    width: 264px;
+    background-color: #FFFFFF;
 }
-.item-title-2 {
-    color: #2E2F42;
-    text-align: center;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
-}
+
 .item-descr-2 {
     color:#434455;
     text-align: center;
@@ -129,6 +128,17 @@ width: 264px
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+.portfolio-title {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+
 }
 .portfolio-item {
     color: #2E2F42;
