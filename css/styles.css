@@ -6,7 +6,7 @@ body {
 
 .logo {
     color:#4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -16,7 +16,7 @@ body {
 }
 
 .logo-span {
-    color: #2E2F42;
+    color: ##2e2f42;
 }
 
 .menu {
@@ -26,6 +26,10 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+
+.adress {
+    font-style: normal
 }
 
 .contacts {
@@ -65,6 +69,7 @@ body {
 
 .button:hover {
     background: #4D5AE5;
+    color: #404bbf;
 }
 .button:focus {
     background: #4D5AE5;
@@ -155,13 +160,13 @@ footer {
 
 .logo-2 {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    line-height: 1.17
     }
     
 .logo-span {
