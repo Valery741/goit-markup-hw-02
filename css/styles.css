@@ -181,9 +181,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    width: 1440px;
-    height: 732px;
-    flex-shrink: 0;
+
 }
 
 .team-item {
