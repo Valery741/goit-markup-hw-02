@@ -78,7 +78,6 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
-    align-items: flex-start;
     background-color: #4D5AE5;
     cursor: pointer;
 
@@ -94,9 +93,6 @@ body {
 .advantages {
     background-color: #FFF;
     
-}
-.adv-list {
-    align-items: flex-start;
 }
 
 .title-name {
@@ -134,7 +130,6 @@ body {
 .team-item {
     background-color: #FFFFFF;
     justify-content: center;
-    align-items: center;
 }
 .team-item-name {
     color: #2E2F42;
@@ -179,7 +174,6 @@ body {
     letter-spacing: 0.4px;
 }
 .portfolio-list {
-    align-items: flex-start;
     border: #E7E9FC;
     background:#FFF;
 }
