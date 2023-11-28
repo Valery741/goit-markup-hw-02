@@ -68,7 +68,6 @@ body {
     line-height: 1.07;
     letter-spacing: 0.02em;
     background-color: #2E2F42;
-    flex-shrink: 0;
 }
 .section-button {
     font-family: "Roboto", sans-serif;
@@ -80,7 +79,6 @@ body {
     letter-spacing: 0.64px;
     background-color: #4D5AE5;
     cursor: pointer;
-
 }
 .section-button:hover {
     background-color: #404BBF;
@@ -94,7 +92,6 @@ body {
     background-color: #FFF;
     
 }
-
 .title-name {
     color: #2E2F42;
     font-size: 20px;
