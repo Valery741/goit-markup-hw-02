@@ -8,7 +8,6 @@ body {
 
 .navigation {
     Top line width: 1440px;
-    height: 72px;
     flex-shrink: 0;
     background: #FFF;
 }
