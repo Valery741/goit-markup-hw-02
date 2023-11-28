@@ -7,8 +7,6 @@ body {
 /* < !-- Navigation --> */
 
 .navigation {
-    Top line width: 1440px;
-    flex-shrink: 0;
     background: #FFF;
 }
 .logo-header {
@@ -24,7 +22,6 @@ body {
 .logo-span {
     color: #2e2f42;
 }
-
 .menu-nav {
     color: #2e2f42;
     font-size: 16px;
@@ -42,7 +39,6 @@ body {
 .adress {
     font-style: normal
 }
-
 .contacts {
     color:#434455;
     font-size: 16px;
@@ -54,7 +50,6 @@ body {
 .contacts:hover {
     color: #404bbf;
 }
-
 .contacts:focus {
     color: #404bbf;
 }
@@ -198,6 +193,7 @@ body {
 }
 
 /* Footer */
+
 footer {
     background:#2E2F42;
 }
