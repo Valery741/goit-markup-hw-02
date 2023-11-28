@@ -25,11 +25,7 @@ body {
 .logo-span {
     color: #2e2f42;
 }
-.menu-list {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 40px;
-}
+
 .menu-nav {
     color: #2e2f42;
     font-size: 16px;
@@ -61,7 +57,7 @@ body {
 }
 
 .contacts:focus {
-     color: #404bbf;
+    color: #404bbf;
 }
 
 /* Main content */
@@ -88,7 +84,6 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
-    padding: 16px, 32px;
     align-items: flex-start;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -107,10 +102,7 @@ body {
     
 }
 .adv-list {
-    display: flex;
     align-items: flex-start;
-    gap: 8px;
-    
 }
 
 .title-name {
@@ -147,7 +139,6 @@ body {
 }
 .team-item {
     background-color: #FFFFFF;
-    padding-bottom: 0px;
     justify-content: center;
     align-items: center;
 }
@@ -194,8 +185,6 @@ body {
     letter-spacing: 0.4px;
 }
 .portfolio-list {
-    display: flex;
-    padding-bottom: 0px;
     align-items: flex-start;
     border: #E7E9FC;
     background:#FFF;
